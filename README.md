@@ -100,7 +100,7 @@ This project is open source and available under the [MIT License](LICENSE).
 
 **Your Name**
 
-- GitHub: [@YOUR_USERNAME](https://github.com/rhondeldi)
+- GitHub: [@rhondeldi](https://github.com/rhondeldi)
 
 ---
 
