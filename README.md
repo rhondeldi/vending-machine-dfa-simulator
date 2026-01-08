@@ -41,7 +41,7 @@ This project demonstrates a **Deterministic Finite Automaton** where:
 
 ```bash
 # Clone the repository
-git clone https://github.com/YOUR_USERNAME/vending-machine-dfa-simulator.git
+git clone https://github.com/rhondeldi/vending-machine-dfa-simulator.git
 
 # Navigate to project directory
 cd vending-machine-dfa-simulator
